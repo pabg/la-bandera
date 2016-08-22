@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+	height: 100px;
+}
+.yellow, .red{
+	height: 100px;
+	display: inline-block;
+}
+
+.box{
+	margin: 10px;
+	width: 200px;
+}
