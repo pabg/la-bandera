@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
+
+.yellow, .red{
+	margin-bottom:10px;
+	margin-right: 10px;
+	height: 100px;
+	width: 200px;
+	padding: 10px;
+	display: inline;
+}
