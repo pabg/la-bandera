@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+	height: 100px;
+}
+.yellow, .pink{
+	height: 100px;
+}
